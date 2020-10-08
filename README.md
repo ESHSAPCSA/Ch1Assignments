@@ -1,2 +1,5 @@
-# Ch1Assignments
-Chapter 1 Assignments
+public class PrintFred{
+  public static void main(strin[] args){
+    // code here 
+  }
+}
